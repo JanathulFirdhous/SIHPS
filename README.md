@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27.11.2024
+## Register Number:24900115
+## Name:JANATHUL FIRDHOUS
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,63 @@ Government of Gujarat
 
 ## Idea
 
+Geo-Tagged Networking Map:
+
+Implement a feature where alumni can see a map with markers showing the locations of other alumni. This way, they can easily find and connect with fellow alumni nearby, fostering local meetups and collaborations.
+
+Skills Exchange Program:
+
+Create a section where alumni can list skills they are willing to offer (like mentorship, job referrals, etc.) and skills they are seeking (like learning a new language, coding, etc.). This can facilitate a peer-to-peer exchange of knowledge and support.
+
+Flash Updates:
+
+Introduce a feature for quick, 30-second video updates from alumni sharing their latest achievements, news, or quick tips. These bite-sized videos can keep the community engaged and informed without requiring extensive time investment.
+
+Time Capsule Messages:
+
+Allow alumni to write messages or create multimedia content that will be sent to them or shared with the community after a certain number of years. This can create a sense of nostalgia and connection over time.
+
+Quick Polls and Trivia:
+
+Regularly engage alumni with quick polls and trivia related to their time at the institution or current events. This can be a fun way to keep the community interactive and involved.
 
 ## Proposed Solution / Architecture Diagram
 
+![Screenshot 2024-11-28 122251](https://github.com/user-attachments/assets/41ab4287-3533-4858-b168-1741bb7b1239)
+
 
 ## Use Cases
+Join Networking Hub:
 
+Step 1: The user logs in and navigates to the "Networking Hub" section.
+
+Step 2: The user searches for other alumni based on interests, profession, or location.
+
+Step 3: The user sends connection requests or joins groups related to their interests.
+
+Engage with the Community:
+
+Step 1: The user participates in discussions, shares posts, and interacts with other members.
+
+Step 2: The user can also set up one-on-one meetings or group events through the platform.
 
 ## Technology Stack
-
-
+React.js
+Bootstrap
+Redux
+Node.js
+Express.js
+MongoDB
+Firebase
+Stripe
+Google Maps API
+Twilio
+AWS S3
+Docker
+Visual Studio Code
+Git
+Jenkins
 ## Dependencies
+Total months-4 months
+Total budget-rs.20,000
 
